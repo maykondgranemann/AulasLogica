@@ -1,0 +1,13 @@
+form{
+    width: 60%;
+    margin: auto;
+}
+
+
+#nome_completo{
+    font-size: 30px;
+}
+.titulos{
+    text-align: center;
+    color: blueviolet;
+}
